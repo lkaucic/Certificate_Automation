@@ -48,7 +48,7 @@ recievers = [email for name, email in info]
 subject = "MSA workshop certificate"
 body = f"""
         This mail contains certificate for the following workshop:
-        'Foundations of data science for machine learning' 
+        'Name of the workshop' 
         
         Best regards,
         my_name
