@@ -9,5 +9,6 @@ Here are two important things for email configuration:
 3. line 46 - enter App Password generated on gmail ([Google Documentation](https://support.google.com/accounts/answer/185833?hl=en))  
 
 
-For any question feel free to contact me:  
+For any questions feel free to contact me:  
 luka.kaucic@studentambassadors.com
+luka.kaucic08@gmail.com
